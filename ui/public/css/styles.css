@@ -1,0 +1,19 @@
+/*
+Name: Sanchita Kanade
+Class:CS648.02 Modern Full-Stack Web Development (Spring 2020)
+Assignment: 6 
+File: styles.css
+*/
+
+body                              {font-family: Arial, Helvetica, sans-serif;}
+div, label, button                {font-size: 1.1em;}
+input, select                     {font-size: 0.9em;}
+
+.control-label {font-size: large;} 
+
+h4 {
+    margin-left: 20px;
+}
+
+/* for links in product edit page */
+#prev, #next { font-size: medium;}
